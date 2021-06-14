@@ -1,0 +1,1 @@
+/summon villager ~ ~ ~1 {Silent:1b,Invulnerable:1b,PersistenceRequired:1b,NoAI:1b,Tags:["kit_archer"],CustomName:'{"text":"kit_archer"}',ActiveEffects:[{Id:14b,Amplifier:2b,Duration:199980,ShowParticles:0b}]}

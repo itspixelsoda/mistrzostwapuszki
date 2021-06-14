@@ -1,0 +1,18 @@
+prefixy:
+
+{"text":" \uE002 Czerwone Czereśnie ","color":"red"}
+{"text":" \uE003 Niebieskie Nietoperze ","color":"blue"}
+{"text":" \uE004 Zielone Ziemniaki ","color":"green"}
+{"text":" \uE005 Żółte Żarówki ","color":"yellow"}
+
+gracz powinien się nazywać: <ilość monet>
+
+suffixy:
+{"text":"\uE008 "}
+
+notatka:
+żeby wyświetlać te same wartości dla różnych drużyn należy nazwać gracza (monety) z kropkami na końcu lub na początku. te wartości należy dodać do teamów_main.
+czerwoni: <puste>
+niebiescy: ½x
+zieloni: ¬x
+żółci: ¿x

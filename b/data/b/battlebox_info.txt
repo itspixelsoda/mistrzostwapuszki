@@ -1,0 +1,5 @@
+mapy:
+- Basen
+- Most
+- Miód
+- Dojo

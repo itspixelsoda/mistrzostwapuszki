@@ -1,0 +1,1 @@
+say datapack b loaded.

@@ -1,0 +1,4 @@
+prefixy:
+{"text":"Punkty Meczowe: ","bold":true,"color":"aqua"}
+
+gracz powinien się nazywać: (x1.0), (x1.2), itd
