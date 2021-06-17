@@ -1,8 +1,0 @@
-prefixy:
-
-{"text":"Pozostały Czas: ","bold":true,"color":"red"}
-
-gracz powinien się nazywać: <czas z scoreboarda>
-
-suffixy:
-(brak)
