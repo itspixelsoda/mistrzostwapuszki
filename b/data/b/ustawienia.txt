@@ -1,0 +1,9 @@
+/function b:meczmenu <-- odpala menu dla admina który wybiera dwie grające ze sobą drużyny
+
+Wybierz Drużynę 1: ustawia bb.team1
+Wybierz Drużynę 2: ustawia bb.team2
+
+bb.team(x) daje sygnał do commandblocków które sprawdzają aż zmienna "matchReady" w tabeli "bb.isReady" będzie na 1
+Po odpaleniu teleportuje drużynę do wyznaczonego boxu dla t1 i t2
+
+Następnie czeka na zmienną "isReady" w tabeli "bb.isReady" (wartość 2) - potwierdzenie gotowości kapitanów (tag=kapitan)
