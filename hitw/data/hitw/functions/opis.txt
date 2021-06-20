@@ -1,0 +1,5 @@
+seq_strona = losuje stronę slimeblocków z 4
+
+seq_2 = losuje możliwą kombinację z 20  
+
+seq_1 =
