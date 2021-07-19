@@ -1,10 +1,10 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:rail"
+      "item": "minecraft:smoker"
     },
-    "title": "Następna Stacja",
-    "description": "Autor: itspixelsoda",
+    "title": "Masterchef",
+    "description": "Autor: tadefon",
     "frame": "challenge",
     "announce_to_chat": true
   },

@@ -1,10 +1,10 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:rail"
+      "item": "minecraft:stripped_oak_log"
     },
-    "title": "Następna Stacja",
-    "description": "Autor: itspixelsoda",
+    "title": "Fungus",
+    "description": "Autor: waddiwasu",
     "frame": "challenge",
     "announce_to_chat": true
   },

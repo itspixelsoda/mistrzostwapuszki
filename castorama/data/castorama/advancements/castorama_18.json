@@ -1,10 +1,10 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:rail"
+      "item": "minecraft:redstone_lamp"
     },
-    "title": "Następna Stacja",
-    "description": "Autor: itspixelsoda",
+    "title": "Elektryka prąd nie tyka",
+    "description": "Autor: gluszek92",
     "frame": "challenge",
     "announce_to_chat": true
   },

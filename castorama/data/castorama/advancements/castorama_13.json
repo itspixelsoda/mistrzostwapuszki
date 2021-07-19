@@ -1,10 +1,10 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:rail"
+      "item": "minecraft:pink_stained_glass"
     },
-    "title": "Następna Stacja",
-    "description": "Autor: itspixelsoda",
+    "title": "Sztuka Nowoczesna",
+    "description": "Autor: gluszek92, tadefon",
     "frame": "challenge",
     "announce_to_chat": true
   },

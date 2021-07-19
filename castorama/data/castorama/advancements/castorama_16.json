@@ -1,10 +1,10 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:rail"
+      "item": "minecraft:orange_tulip"
     },
-    "title": "Następna Stacja",
-    "description": "Autor: itspixelsoda",
+    "title": "Babciny Ogródek",
+    "description": "Autor: tadefon",
     "frame": "challenge",
     "announce_to_chat": true
   },

@@ -1,10 +1,10 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:rail"
+      "item": "minecraft:sand"
     },
-    "title": "Następna Stacja",
-    "description": "Autor: itspixelsoda",
+    "title": "Plażowa Architektura",
+    "description": "Autor: gluszek92",
     "frame": "challenge",
     "announce_to_chat": true
   },

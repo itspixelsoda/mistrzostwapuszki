@@ -1,9 +1,9 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:rail"
+      "item": "minecraft:quartz_block"
     },
-    "title": "Następna Stacja",
+    "title": "Gambit Sandomierski",
     "description": "Autor: itspixelsoda",
     "frame": "challenge",
     "announce_to_chat": true

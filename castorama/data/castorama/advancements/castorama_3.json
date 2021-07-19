@@ -1,9 +1,9 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:rail"
+      "item": "minecraft:campfire"
     },
-    "title": "Następna Stacja",
+    "title": "Camping",
     "description": "Autor: itspixelsoda",
     "frame": "challenge",
     "announce_to_chat": true

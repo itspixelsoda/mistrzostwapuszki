@@ -1,10 +1,10 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:rail"
+      "item": "minecraft:dark_prismarine"
     },
-    "title": "Następna Stacja",
-    "description": "Autor: itspixelsoda",
+    "title": "Świątynia",
+    "description": "Autor: xSmoker11",
     "frame": "challenge",
     "announce_to_chat": true
   },

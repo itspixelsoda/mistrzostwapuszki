@@ -1,10 +1,10 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:rail"
+      "item": "minecraft:stone_bricks"
     },
-    "title": "Następna Stacja",
-    "description": "Autor: itspixelsoda",
+    "title": "Więzienie",
+    "description": "Autor: xSmoker11",
     "frame": "challenge",
     "announce_to_chat": true
   },

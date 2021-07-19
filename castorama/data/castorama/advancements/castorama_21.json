@@ -1,10 +1,10 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:rail"
+      "item": "minecraft:piston"
     },
-    "title": "Następna Stacja",
-    "description": "Autor: itspixelsoda",
+    "title": "Przekrój Silnika",
+    "description": "Autor: tadefon",
     "frame": "challenge",
     "announce_to_chat": true
   },

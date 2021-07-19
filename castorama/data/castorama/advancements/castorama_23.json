@@ -1,10 +1,10 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:rail"
+      "item": "minecraft:birch_stairs"
     },
-    "title": "Następna Stacja",
-    "description": "Autor: itspixelsoda",
+    "title": "Kaplica",
+    "description": "Autor: Marrrro",
     "frame": "challenge",
     "announce_to_chat": true
   },

@@ -1,10 +1,10 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:rail"
+      "item": "minecraft:stone"
     },
-    "title": "Następna Stacja",
-    "description": "Autor: itspixelsoda",
+    "title": "Wagonikiem pod ziemią",
+    "description": "Autor: gluszek92",
     "frame": "challenge",
     "announce_to_chat": true
   },

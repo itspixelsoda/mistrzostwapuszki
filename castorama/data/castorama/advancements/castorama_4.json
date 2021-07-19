@@ -1,9 +1,9 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:rail"
+      "item": "minecraft:quartz_bricks"
     },
-    "title": "Następna Stacja",
+    "title": "Basen ze starym",
     "description": "Autor: itspixelsoda",
     "frame": "challenge",
     "announce_to_chat": true

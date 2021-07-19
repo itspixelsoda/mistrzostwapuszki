@@ -1,10 +1,10 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:rail"
+      "item": "minecraft:prismarine_bricks"
     },
-    "title": "Następna Stacja",
-    "description": "Autor: itspixelsoda",
+    "title": "Przekrój Świątyni",
+    "description": "Autor: waddiwasu",
     "frame": "challenge",
     "announce_to_chat": true
   },

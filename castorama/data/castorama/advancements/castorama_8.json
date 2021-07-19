@@ -1,10 +1,10 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:rail"
+      "item": "minecraft:nether_wart_block"
     },
-    "title": "Następna Stacja",
-    "description": "Autor: itspixelsoda",
+    "title": "Netherowy Las",
+    "description": "Autor: xSmoker11",
     "frame": "challenge",
     "announce_to_chat": true
   },

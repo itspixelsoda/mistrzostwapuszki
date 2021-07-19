@@ -1,10 +1,10 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:rail"
+      "item": "minecraft:purpur_block"
     },
-    "title": "Następna Stacja",
-    "description": "Autor: itspixelsoda",
+    "title": "Winda z End City",
+    "description": "Autor: xSmoker11",
     "frame": "challenge",
     "announce_to_chat": true
   },

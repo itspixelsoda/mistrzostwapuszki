@@ -1,10 +1,10 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:rail"
+      "item": "minecraft:blue_orchid"
     },
-    "title": "Następna Stacja",
-    "description": "Autor: itspixelsoda",
+    "title": "Kwiaciarnia",
+    "description": "Autor: xSmoker11",
     "frame": "challenge",
     "announce_to_chat": true
   },
