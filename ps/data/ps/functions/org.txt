@@ -1,0 +1,20 @@
+pod każdym punktem, jako checkpoint:
+
+Rep / AA
+execute as @a[x=7,y=37,z=24,distance=..2] at @s run scoreboard players set @s czekpoint 1
+
+Rep / AA
+execute as @a[scores={czekpoint=1}] at @s if entity @s[y=1,dy=5] run tp @s 22 36 29
+
+
+
+na punkty:
+
+Rep / AA
+execute as @a[team=czer,x=7,y=37,z=23,distance=..2] at @s run effect give @a minecraft:instant_health 1 255 true
+
+Imp / NR
+execute as @a[team=czer,x=7,y=37,z=23,distance=..2] at @s run summon firework_rocket ~ ~4 ~1 {NoDamage:1,LifeTime:0,FireworksItem:{id:firework_rocket,Count:1,tag:{Fireworks:{Flight:1,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;14602026],FadeColors:[I;14602026]}]}}}}
+
+Imp / NR
+execute as @a[team=czer,x=7,y=37,z=23,distance=..3] at @s run scoreboard players add Czerwoni punkty 5

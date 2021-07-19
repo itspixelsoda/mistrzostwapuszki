@@ -1,0 +1,3 @@
+za każdy skończony build drużyna dostaje achievementa
+punkty są przyznawane po prostu za skończone buildy bez znaczenia kto pierwszy (15pkt dla każdego z drużyny)
+znaczenie ma dopiero wtedy gdy budowane są złote buildy (pojawiają się w 5:00)

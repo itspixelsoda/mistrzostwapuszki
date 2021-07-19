@@ -1,0 +1,17 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:lodestone"
+    },
+    "title": "Castorama - Build 1",
+    "description": "test",
+    "frame": "task",
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {}
+}
