@@ -14,5 +14,5 @@ suffixy:
 {"text":"Wyścig Skoków\"","color":"aqua"}
 {"text":"Parkourowy Berek\"","color":"aqua"}
 {"text":"Przeceny w Castoramie\"","color":"aqua"}
-{"text":"Dziura w Ścianie\"","color":"aqua"}
+{"text":"Ace Race\"","color":"aqua"}
 {"text":"Zbijak\"","color":"aqua"}
