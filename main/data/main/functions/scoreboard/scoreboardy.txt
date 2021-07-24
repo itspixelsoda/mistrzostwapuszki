@@ -44,3 +44,4 @@ format znaków:
 ¿ - 3 (nieb)
 ª - 2 (ziel)
 º - 1 (zolt)
+¡ - (drugie puste)

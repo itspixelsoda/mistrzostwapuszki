@@ -4,3 +4,5 @@ title @a reset
 
 team modify czas prefix {"text":"Pozostały Czas: ","bold":true,"color":"red"}
 team modify czas suffix {"text":"00:00","color":"red"}
+
+scoreboard players set seconds clock 0

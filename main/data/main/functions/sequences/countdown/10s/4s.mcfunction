@@ -5,3 +5,5 @@ playsound minecraft:block.note_block.banjo master @a 0 100 0 100000
 
 team modify czas prefix {"text":"Start za: ","bold":true,"color":"red"}
 team modify czas suffix {"text":"00:04","color":"red"}
+
+scoreboard players set seconds clock 4
