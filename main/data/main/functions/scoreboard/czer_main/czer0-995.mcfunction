@@ -1,6 +1,15 @@
 execute if score punkty czer matches 0 run team modify czer_main suffix {"text":"0\uE008"}
+execute if score punkty czer matches 1 run team modify czer_main suffix {"text":"1\uE008"}
+execute if score punkty czer matches 2 run team modify czer_main suffix {"text":"2\uE008"}
+execute if score punkty czer matches 3 run team modify czer_main suffix {"text":"3\uE008"}
+execute if score punkty czer matches 4 run team modify czer_main suffix {"text":"4\uE008"}
 execute if score punkty czer matches 5 run team modify czer_main suffix {"text":"5\uE008"}
+execute if score punkty czer matches 6 run team modify czer_main suffix {"text":"6\uE008"}
+execute if score punkty czer matches 7 run team modify czer_main suffix {"text":"7\uE008"}
+execute if score punkty czer matches 8 run team modify czer_main suffix {"text":"8\uE008"}
+execute if score punkty czer matches 9 run team modify czer_main suffix {"text":"9\uE008"}
 execute if score punkty czer matches 10 run team modify czer_main suffix {"text":"10\uE008"}
+
 execute if score punkty czer matches 15 run team modify czer_main suffix {"text":"15\uE008"}
 execute if score punkty czer matches 20 run team modify czer_main suffix {"text":"20\uE008"}
 execute if score punkty czer matches 25 run team modify czer_main suffix {"text":"25\uE008"}
