@@ -1,3 +1,5 @@
+scoreboard players set wallDone hitw 0
+
 function hitw:clear_platformy
 schedule function hitw:seq_strona 10t
 schedule function hitw:seq_2 12t
